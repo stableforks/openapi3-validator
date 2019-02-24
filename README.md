@@ -3,7 +3,7 @@
 # OpenAPI v3 Validator
 
 This is essencially a docker image that runs
-https://github.com/p1c2u/openapi-spec-validator (Also forked as https://github.com/stableforks/openapi-spec-validator  and can be plugged into CI
+https://github.com/p1c2u/openapi-spec-validator (Also forked as https://github.com/stableforks/stableforks-openapi-spec-validator) and can be plugged into CI
 servers or even be used during development.
 
 It's still being improved but it already helps us to ensure that our API specs

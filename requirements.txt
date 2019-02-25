@@ -1,2 +1,2 @@
-openapi-spec-validator
+stableforks-openapi-spec-validator
 ansicolors
